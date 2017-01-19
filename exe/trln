@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'trln/util'
+
+# wrapper for `trln` command, see the class below for more info
+TRLN::Util::CommandLine.start(ARGV)
