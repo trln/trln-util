@@ -58,15 +58,13 @@ module TRLN::XML
 
         attr_accessor :context, :current, :tag, :handler
         
-        # Creates a new instance
-        #
-        # Parameters:
-        #
-        # +tag+ the tag to look for 
-        # 
+        # Creates a new parser.
+        # @param tag [String] the tag name demarcating a record
+        # @param options [Hash] extra options
+        # @option options [#call(rec)] :handler a proc/block/lambda to be called as each record is found
+        # @option options [Boolean] :quiet whether logging output should be suppressed (default: errors to +$stderr+)
         # +block+ the block to be executed as each record's end element
         # is encountered (optional)
-        # 
         # Usage:
         #
         #   # block is optional

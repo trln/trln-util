@@ -1,4 +1,5 @@
 require 'trln/util/packager'
+require 'tmpdir'
 
 module TRLN
     module Util
@@ -43,7 +44,7 @@ module TRLN
                 unless @dir
                     @is_tempdir = true
                     txn_id = options[:transaction_id] || 'unknown-tx'
-                    @dir = Dir.mktmpdir("solr-#{txn_id}-")
+                    @dir = Dir.mktmpdir("chunker-#{txn_id}-")
                     ObjectSpace.define_finalizer(self, proc { FileUtils.remove_entry @dir })
                 end
 
