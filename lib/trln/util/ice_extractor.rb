@@ -1,5 +1,4 @@
 require 'nokogiri'
-require 'lisbn'
 require 'fiber'
 require 'trln/util/xml'
 require 'json'
@@ -38,8 +37,8 @@ module TRLN::Util::ICE
         # and returns two values, boolean indicating validity and the normalized
         # value
         def good_isbn?(value)
-            v = value.upcase().gsub(/[^0-9X]/, '')
-            [ Lisbn.new(v).valid?, v ]
+            v = StdNum::ISBN.reduce_to_basics(v)
+            [ StdNum::ISBN.valid?(v), v ]
         end
 
         def marc005todate(marc_value)
