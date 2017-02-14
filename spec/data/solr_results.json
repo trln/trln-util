@@ -1,0 +1,804 @@
+{
+    "response": {
+        "start": 0,
+        "docs": [
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13",
+                    "Chapter 14",
+                    "Chapter 15",
+                    "Chapter 16",
+                    "Chapter 17",
+                    "Chapter 18",
+                    "Chapter 19",
+                    "Chapter 20",
+                    "Chapter 21"
+                ],
+                "title": [
+                    "The Survival Guide for Rookie Moms: The Things You Need to Know, That No One Ever Tells You"
+                ],
+                "isbn": [
+                    "0470736429"
+                ],
+                "id": "pub00013241",
+                "_version_": 1556789961001271297,
+                "update_date_time": [
+                    "2011-01-06T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9"
+                ],
+                "title": [
+                    "Basic Biostatistics for Geneticists and Epidemiologists: A Practical Approach"
+                ],
+                "isbn": [
+                    "0470740787"
+                ],
+                "id": "int00096221",
+                "_version_": 1556789961075720192,
+                "update_date_time": [
+                    "2009-07-01T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13",
+                    "Chapter 14"
+                ],
+                "title": [
+                    "Able, Gifted and Talented Underachievers"
+                ],
+                "isbn": [
+                    "9780470741252"
+                ],
+                "chapters.authors": [
+                    "Author #1",
+                    "Author #2",
+                    "Author #3",
+                    "Author #4",
+                    "Author #5",
+                    "Author #6",
+                    "Author #7",
+                    "Author #8",
+                    "Author #9",
+                    "Author #10",
+                    "Author #11"
+                ],
+                "id": "int00096226",
+                "_version_": 1556789961094594561,
+                "update_date_time": [
+                    "2009-07-01T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13",
+                    "Chapter 14",
+                    "Chapter 15",
+                    "Chapter 16",
+                    "Chapter 17",
+                    "Chapter 18",
+                    "Chapter 19",
+                    "Chapter 20",
+                    "Chapter 21",
+                    "Chapter 22",
+                    "Chapter 23",
+                    "Chapter 24",
+                    "Chapter 25",
+                    "Chapter 26",
+                    "Chapter 27",
+                    "Chapter 28",
+                    "Chapter 29",
+                    "Chapter 30",
+                    "Chapter 31"
+                ],
+                "title": [
+                    "Divorce for Dummies 2E"
+                ],
+                "isbn": [
+                    "0470741287"
+                ],
+                "id": "pub00013249",
+                "_version_": 1556789961095643136,
+                "update_date_time": [
+                    "2011-01-06T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13",
+                    "Chapter 14",
+                    "Chapter 15",
+                    "Chapter 16",
+                    "Chapter 17",
+                    "Chapter 18",
+                    "Chapter 19",
+                    "Chapter 20",
+                    "Chapter 21",
+                    "Chapter 22",
+                    "Chapter 23",
+                    "Chapter 24",
+                    "Chapter 25",
+                    "Chapter 26",
+                    "Chapter 27",
+                    "Chapter 28"
+                ],
+                "title": [
+                    "Marketing for Dummies 2E"
+                ],
+                "isbn": [
+                    "0470741791"
+                ],
+                "id": "pub00013255",
+                "_version_": 1556789961110323201,
+                "update_date_time": [
+                    "2011-01-06T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12"
+                ],
+                "title": [
+                    "Neurodiversity in Higher Education: Positive Responses to Specific Learning Differences"
+                ],
+                "isbn": [
+                    "9780470742259"
+                ],
+                "chapters.authors": [
+                    "Author #1",
+                    "Author #2",
+                    "Author #3",
+                    "Author #4",
+                    "Author #5",
+                    "Author #6",
+                    "Author #7",
+                    "Author #8",
+                    "Author #9",
+                    "Author #10",
+                    "Author #11",
+                    "Author #12"
+                ],
+                "id": "int00096239",
+                "_version_": 1556789961123954688,
+                "update_date_time": [
+                    "2009-07-01T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13",
+                    "Chapter 14",
+                    "Chapter 15",
+                    "Chapter 16",
+                    "Chapter 17",
+                    "Chapter 18",
+                    "Chapter 19",
+                    "Chapter 20",
+                    "Chapter 21",
+                    "Chapter 22",
+                    "Chapter 23",
+                    "Chapter 24",
+                    "Chapter 25",
+                    "Chapter 26",
+                    "Chapter 27",
+                    "Chapter 28",
+                    "Chapter 29",
+                    "Chapter 30",
+                    "Chapter 31",
+                    "Chapter 32",
+                    "Chapter 33",
+                    "Chapter 34",
+                    "Chapter 35",
+                    "Chapter 36",
+                    "Chapter 37",
+                    "Chapter 38",
+                    "Chapter 39",
+                    "Chapter 40",
+                    "Chapter 41",
+                    "Chapter 42",
+                    "Chapter 43",
+                    "Chapter 44",
+                    "Chapter 45",
+                    "Chapter 46",
+                    "Chapter 47",
+                    "Chapter 48",
+                    "Chapter 49",
+                    "Chapter 50",
+                    "Chapter 51",
+                    "Chapter 52",
+                    "Chapter 53",
+                    "Chapter 54",
+                    "Chapter 55",
+                    "Chapter 56",
+                    "Chapter 57",
+                    "Chapter 58",
+                    "Chapter 59",
+                    "Chapter 60",
+                    "Chapter 61",
+                    "Chapter 62",
+                    "Chapter 63",
+                    "Chapter 64",
+                    "Chapter 65",
+                    "Chapter 66",
+                    "Chapter 67",
+                    "Chapter 68",
+                    "Chapter 69",
+                    "Chapter 70",
+                    "Chapter 71",
+                    "Chapter 72",
+                    "Chapter 73",
+                    "Chapter 74",
+                    "Chapter 75",
+                    "Chapter 76",
+                    "Chapter 77",
+                    "Chapter 78",
+                    "Chapter 79",
+                    "Chapter 80",
+                    "Chapter 81",
+                    "Chapter 82",
+                    "Chapter 83",
+                    "Chapter 84",
+                    "Chapter 85",
+                    "Chapter 86",
+                    "Chapter 87",
+                    "Chapter 88",
+                    "Chapter 89",
+                    "Chapter 90",
+                    "Chapter 91",
+                    "Chapter 92",
+                    "Chapter 93",
+                    "Chapter 94",
+                    "Chapter 95",
+                    "Chapter 96",
+                    "Chapter 97",
+                    "Chapter 98",
+                    "Chapter 99",
+                    "Chapter 100",
+                    "Chapter 101",
+                    "Chapter 102",
+                    "Chapter 103",
+                    "Chapter 104",
+                    "Chapter 105",
+                    "Chapter 106",
+                    "Chapter 107",
+                    "Chapter 108",
+                    "Chapter 109",
+                    "Chapter 110",
+                    "Chapter 111",
+                    "Chapter 112",
+                    "Chapter 113",
+                    "Chapter 114",
+                    "Chapter 115",
+                    "Chapter 116",
+                    "Chapter 117",
+                    "Chapter 118",
+                    "Chapter 119",
+                    "Chapter 120",
+                    "Chapter 121",
+                    "Chapter 122",
+                    "Chapter 123",
+                    "Chapter 124",
+                    "Chapter 125",
+                    "Chapter 126",
+                    "Chapter 127",
+                    "Chapter 128",
+                    "Chapter 129",
+                    "Chapter 130",
+                    "Chapter 131",
+                    "Chapter 132",
+                    "Chapter 133",
+                    "Chapter 134",
+                    "Chapter 135",
+                    "Chapter 136",
+                    "Chapter 137",
+                    "Chapter 138",
+                    "Chapter 139",
+                    "Chapter 140",
+                    "Chapter 141",
+                    "Chapter 142",
+                    "Chapter 143",
+                    "Chapter 144",
+                    "Chapter 145",
+                    "Chapter 146",
+                    "Chapter 147",
+                    "Chapter 148",
+                    "Chapter 149",
+                    "Chapter 150",
+                    "Chapter 151",
+                    "Chapter 152",
+                    "Chapter 153",
+                    "Chapter 154",
+                    "Chapter 155",
+                    "Chapter 156",
+                    "Chapter 157",
+                    "Chapter 158",
+                    "Chapter 159",
+                    "Chapter 160",
+                    "Chapter 161",
+                    "Chapter 162",
+                    "Chapter 163",
+                    "Chapter 164",
+                    "Chapter 165",
+                    "Chapter 166",
+                    "Chapter 167",
+                    "Chapter 168",
+                    "Chapter 169",
+                    "Chapter 170",
+                    "Chapter 171",
+                    "Chapter 172",
+                    "Chapter 173",
+                    "Chapter 174",
+                    "Chapter 175",
+                    "Chapter 176",
+                    "Chapter 177",
+                    "Chapter 178",
+                    "Chapter 179",
+                    "Chapter 180",
+                    "Chapter 181",
+                    "Chapter 182"
+                ],
+                "title": [
+                    "Essential Mathmatics and Statisitcs for Forensic Scientists"
+                ],
+                "isbn": [
+                    "0470742534"
+                ],
+                "id": "pub00013266",
+                "_version_": 1556789961131294721,
+                "update_date_time": [
+                    "2011-01-06T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8"
+                ],
+                "title": [
+                    "Trust Agents: Using the Web to Build Influence, Improve Reputation, and Earn Trust"
+                ],
+                "isbn": [
+                    "0470743085"
+                ],
+                "id": "int00019533",
+                "_version_": 1556789961148071937,
+                "update_date_time": [
+                    "2010-04-16T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13",
+                    "Chapter 14",
+                    "Chapter 15",
+                    "Chapter 16",
+                    "Chapter 17",
+                    "Chapter 18",
+                    "Chapter 19",
+                    "Chapter 20",
+                    "Chapter 21",
+                    "Chapter 22",
+                    "Chapter 23",
+                    "Chapter 24",
+                    "Chapter 25",
+                    "Chapter 26",
+                    "Chapter 27",
+                    "Chapter 28",
+                    "Chapter 29",
+                    "Chapter 30",
+                    "Chapter 31",
+                    "Chapter 32",
+                    "Chapter 33",
+                    "Chapter 34",
+                    "Chapter 35",
+                    "Chapter 36",
+                    "Chapter 37",
+                    "Chapter 38",
+                    "Chapter 39",
+                    "Chapter 40",
+                    "Chapter 41",
+                    "Chapter 42",
+                    "Chapter 43",
+                    "Chapter 44",
+                    "Chapter 45",
+                    "Chapter 46",
+                    "Chapter 47",
+                    "Chapter 48",
+                    "Chapter 49",
+                    "Chapter 50",
+                    "Chapter 51",
+                    "Chapter 52",
+                    "Chapter 53",
+                    "Chapter 54",
+                    "Chapter 55",
+                    "Chapter 56",
+                    "Chapter 57",
+                    "Chapter 58",
+                    "Chapter 59",
+                    "Chapter 60",
+                    "Chapter 61",
+                    "Chapter 62",
+                    "Chapter 63",
+                    "Chapter 64"
+                ],
+                "title": [
+                    "Introduction to Meta-Analysis"
+                ],
+                "isbn": [
+                    "0470743387"
+                ],
+                "id": "int00096253",
+                "_version_": 1556789961195257856,
+                "update_date_time": [
+                    "2009-07-01T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12"
+                ],
+                "title": [
+                    "Stochastic Processes for Insurance and Finance"
+                ],
+                "isbn": [
+                    "9780470743638"
+                ],
+                "id": "int00096255",
+                "_version_": 1556789961206792193,
+                "update_date_time": [
+                    "2009-07-01T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13",
+                    "Chapter 14",
+                    "Chapter 15",
+                    "Chapter 16",
+                    "Chapter 17",
+                    "Chapter 18",
+                    "Chapter 19",
+                    "Chapter 20",
+                    "Chapter 21",
+                    "Chapter 22",
+                    "Chapter 23",
+                    "Chapter 24",
+                    "Chapter 25",
+                    "Chapter 26"
+                ],
+                "title": [
+                    "Post-traumatic Urbanism - Architectural Design"
+                ],
+                "isbn": [
+                    "9780470744987"
+                ],
+                "chapters.authors": [
+                    "Author #1",
+                    "Author #2",
+                    "Author #3",
+                    "Author #4",
+                    "Author #5",
+                    "Author #6",
+                    "Author #7",
+                    "Author #8",
+                    "Author #9",
+                    "Author #10",
+                    "Author #11",
+                    "Author #12",
+                    "Author #13",
+                    "Author #14",
+                    "Author #15",
+                    "Author #16",
+                    "Author #17",
+                    "Author #18",
+                    "Author #19",
+                    "Author #20",
+                    "Author #21",
+                    "Author #22"
+                ],
+                "id": "pub00013280",
+                "_version_": 1556789961269706752,
+                "update_date_time": [
+                    "2011-01-06T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13",
+                    "Chapter 14",
+                    "Chapter 15",
+                    "Chapter 16",
+                    "Chapter 17",
+                    "Chapter 18",
+                    "Chapter 19",
+                    "Chapter 20",
+                    "Chapter 21",
+                    "Chapter 22",
+                    "Chapter 23",
+                    "Chapter 24",
+                    "Chapter 25",
+                    "Chapter 26",
+                    "Chapter 27",
+                    "Chapter 28",
+                    "Chapter 29",
+                    "Chapter 30",
+                    "Chapter 31",
+                    "Chapter 32",
+                    "Chapter 33",
+                    "Chapter 34",
+                    "Chapter 35",
+                    "Chapter 36",
+                    "Chapter 37",
+                    "Chapter 38",
+                    "Chapter 39",
+                    "Chapter 40",
+                    "Chapter 41",
+                    "Chapter 42",
+                    "Chapter 43",
+                    "Chapter 44",
+                    "Chapter 45",
+                    "Chapter 46",
+                    "Chapter 47",
+                    "Chapter 48",
+                    "Chapter 49",
+                    "Chapter 50",
+                    "Chapter 51",
+                    "Chapter 52",
+                    "Chapter 53"
+                ],
+                "title": [
+                    "Beating Low Cost Competition: How Premium Brands can respond to Cut-Price Rivals"
+                ],
+                "isbn": [
+                    "0470745223"
+                ],
+                "id": "int00096262",
+                "_version_": 1556789961277046784,
+                "update_date_time": [
+                    "2009-07-01T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13",
+                    "Chapter 14",
+                    "Chapter 15",
+                    "Chapter 16",
+                    "Chapter 17",
+                    "Chapter 18",
+                    "Chapter 19",
+                    "Chapter 20"
+                ],
+                "title": [
+                    "Researching Your Family History Online for Dummies2e"
+                ],
+                "isbn": [
+                    "0470745355"
+                ],
+                "chapters.authors": [
+                    "Author #1"
+                ],
+                "id": "pub00013284",
+                "_version_": 1556789961281241089,
+                "update_date_time": [
+                    "2011-01-06T00:00:00Z"
+                ]
+            },
+            {
+                "chapters.title": [
+                    "Chapter 1",
+                    "Chapter 2",
+                    "Chapter 3",
+                    "Chapter 4",
+                    "Chapter 5",
+                    "Chapter 6",
+                    "Chapter 7",
+                    "Chapter 8",
+                    "Chapter 9",
+                    "Chapter 10",
+                    "Chapter 11",
+                    "Chapter 12",
+                    "Chapter 13",
+                    "Chapter 14",
+                    "Chapter 15",
+                    "Chapter 16",
+                    "Chapter 17",
+                    "Chapter 18",
+                    "Chapter 19",
+                    "Chapter 20",
+                    "Chapter 21",
+                    "Chapter 22"
+                ],
+                "title": [
+                    "Advances in Fisheries Economics: Festschrift in Honour of Professor Gordon R. Munro"
+                ],
+                "isbn": [
+                    "0470751576"
+                ],
+                "chapters.authors": [
+                    "Author #1",
+                    "Author #2",
+                    "Author #3",
+                    "Author #4",
+                    "Author #5",
+                    "Author #6",
+                    "Author #7",
+                    "Author #8",
+                    "Author #9",
+                    "Author #10",
+                    "Author #11",
+                    "Author #12",
+                    "Author #13",
+                    "Author #14",
+                    "Author #15",
+                    "Author #16",
+                    "Author #17",
+                    "Author #18"
+                ],
+                "id": "int00096375",
+                "_version_": 1556789961472081920,
+                "update_date_time": [
+                    "2009-07-01T00:00:00Z"
+                ]
+            }
+        ],
+        "numFound": 14
+    },
+    "responseHeader": {
+        "status": 0,
+        "params": {
+            "rows": "75",
+            "q": "isbn: (0470741791 OR 9780470741252 OR 0470751576 OR 9780470744987 OR 0470740787 OR 0470743387 OR 0470140593 OR 0470743085 OR 0470742534 OR 0470745223 OR 0470741287 OR 0470736429 OR 9780470743638 OR 0470745355 OR 9780470742259)",
+            "wt": "json"
+        },
+        "QTime": 29,
+        "zkConnected": true
+    }
+}
