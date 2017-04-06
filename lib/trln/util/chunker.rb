@@ -63,9 +63,11 @@ module TRLN
             end 
 
             def finish_currentfile
-                @current_file.flush
-                @current_file.close            
-                @current_file = nil
+                if @current_file
+                    @current_file.flush
+                    @current_file.close            
+                    @current_file = nil
+                end
             end
 
             # Writes an individual record to the output

@@ -1,0 +1,10 @@
+# Contents
+
+`something.fake.gz` - a testing file.
+
+`ice-schema.yaml` - YAML file describing the ICE Solr schema. This file can be
+used with the `solrtasks` gem's `harmonize-schema` command to create the
+initial schema:
+    
+    $ solrtasks harmonize-schema icetocs resources/ice-schema.yaml
+

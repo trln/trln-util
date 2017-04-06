@@ -2,6 +2,8 @@ require 'nokogiri'
 require 'fiber'
 require 'trln/util/xml'
 require 'json'
+require 'date'
+require 'library_stdnums'
 
 ##
 # Implements a handler that extracts ICE Data from Syndetics in a handy format from USMARC records.
@@ -60,6 +62,9 @@ module TRLN::Util::ICE
         # it needs a call to #resume to get going
         @looper.resume true
         p = Nokogiri::XML::SAX::Parser.new(@parser)
+        puts "Source: #{ @source }"
+        puts "Source is readable? : #{ @source.respond_to?(:read) }"
+        puts "Source is stdin? #{ @source == $stdin }"
         input = @source.respond_to?(:read) ? @source : File.open(@source)
         p.parse(input)
       end
@@ -116,7 +121,7 @@ module TRLN::Util::ICE
 
           rec = {
                 :id => record_id,
-                :update_date_time => update_date_time,
+                :update_date_time => update_date_time.strftime('%Y-%m-%dT%H:%M:%SZ'),
                 :isbn => isbns,
                 :title => title,
                 :chapters => chapters 

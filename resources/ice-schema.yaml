@@ -1,0 +1,30 @@
+_defaults: &DEFAULTS
+  type: strings
+  stored: true
+  indexed: true
+  multiValued: true
+
+id:
+  type: string
+  id: true
+
+title:
+  <<: *DEFAULTS
+  type: string
+  multiValued: false
+
+update_date_time:
+  <<: *DEFAULTS
+  type: date 
+  multiValued: false
+
+isbn: 
+  <<: *DEFAULTS
+
+chapters.title:
+  <<: *DEFAULTS
+  indexed: false
+
+chapters.authors: 
+  <<: *DEFAULTS
+  indexed: false

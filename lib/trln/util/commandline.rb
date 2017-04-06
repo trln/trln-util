@@ -1,8 +1,10 @@
+require 'trln/util'
 require 'trln/util/chunker'
 require 'trln/util/ice_extractor'
 require 'trln/util/xml'
 require 'thor'
 require 'fileutils'
+require 'zlib'
 require 'logger'
 
 module TRLN::Util
@@ -35,12 +37,9 @@ module TRLN::Util
             end
             processor = ICE::Processor.new(options)
             outputs.write '[' if options[:valid]
-            if files.empty?
-                processor.process($stdin, output)
-            else 
-                files.each do |file|
-                    processor.process(file, output) if File.exist?(file)
-                end
+            files= [ $stdin ] if files.empty?
+            files.each do |file|
+                processor.process(TRLN::Util.get_readable(file), output) if File.exist?(file)
             end
             output.write "\n" if options[:pretty]
             output.write ']' if options[:valid]
@@ -71,7 +70,7 @@ module TRLN::Util
 
             chunker = TRLN::Util::Chunker.new(opts) do |output|
                     files.each do |input|
-                        processor.process(input, output)
+                        processor.process( TRLN::Util.get_readable(input), output)
                     end
             end
             solr_url = options[:url]

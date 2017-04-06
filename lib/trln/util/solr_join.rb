@@ -36,6 +36,7 @@ module MyHashUtil
 end # module
 
 
+# Utilities for enriching documents with 
 module TRLN::Util::Solr
     using MyHashUtil
 
