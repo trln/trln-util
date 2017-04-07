@@ -62,9 +62,6 @@ module TRLN::Util::ICE
         # it needs a call to #resume to get going
         @looper.resume true
         p = Nokogiri::XML::SAX::Parser.new(@parser)
-        puts "Source: #{ @source }"
-        puts "Source is readable? : #{ @source.respond_to?(:read) }"
-        puts "Source is stdin? #{ @source == $stdin }"
         input = @source.respond_to?(:read) ? @source : File.open(@source)
         p.parse(input)
       end
